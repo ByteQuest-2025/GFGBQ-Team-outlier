@@ -1,6 +1,15 @@
-# 🏥 Predictive Hospital Resource & Emergency Load Intelligence System
-
 ## PS 06 – Hackathon Problem Statement
+
+**Problem Statement:** Predictive Hospital Resource & Emergency Load Intelligence System
+
+**Team name:** outlier
+
+**Live Demo:** https://gfgbq-team-outlier-6tpbykremtogxp5xibqbar.streamlit.app/
+
+**Video link:**  
+
+**Presentation link:** https://docs.google.com/presentation/d/1U6AF33N_zcf1z5G-IL190wuZfHhGi-DG/edit?usp=drive_link&ouid=118192371772817568110&rtpof=true&sd=true
+
 
 ### 🚨 Problem Overview
 
@@ -75,9 +84,6 @@ The system leverages:
 1. git clone [<outlier>](https://github.com/ByteQuest-2025/GFGBQ-Team-outlier)
 2. pip install -r requirements.txt
 3. streamlit run app.py 
-
-## Streamlit App 
-🚀 **Live Demo:** https://gfgbq-team-outlier-6tpbykremtogxp5xibqbar.streamlit.app/
 
 **Predict daily emergency admissions**
 
