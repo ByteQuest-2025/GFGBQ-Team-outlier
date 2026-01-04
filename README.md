@@ -6,9 +6,9 @@
 
 **Live Demo:** https://gfgbq-team-outlier-6tpbykremtogxp5xibqbar.streamlit.app/
 
-**Video link:**  
+**Video link:** [video demo](https://drive.google.com/file/d/1crozGxuLTi-GtWAoH6hWIsqAfbZYvww1/view?usp=drive_link)
 
-**Presentation link:** https://docs.google.com/presentation/d/1U6AF33N_zcf1z5G-IL190wuZfHhGi-DG/edit?usp=drive_link&ouid=118192371772817568110&rtpof=true&sd=true
+**Presentation link:** [View ppt](https://docs.google.com/presentation/d/1U6AF33N_zcf1z5G-IL190wuZfHhGi-DG/edit?usp=drive_link&ouid=118192371772817568110&rtpof=true&sd=true)
 
 ---
 
