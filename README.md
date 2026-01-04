@@ -80,12 +80,15 @@ The system leverages:
 🚀 **Live Demo:** http://localhost:8501/#ai-driven-predictive-healthcare-analytics
 
 **Predict daily emergency admissions**
+
 <img width="500" height="500" alt="Screenshot 2026-01-04 102924" src="https://github.com/user-attachments/assets/21ea9d23-491d-46ef-98ee-883862ac4699" />
 
 **Estimate ICU bed demand** 
+
 <img width="500" height="500" alt="Screenshot 2026-01-04 102831" src="https://github.com/user-attachments/assets/990d4295-7fbd-4983-a721-fabc9d3869e9" />
 
 **Analyze staff workload levels**
+
 <img width="500" height="500" alt="Screenshot 2026-01-04 102854" src="https://github.com/user-attachments/assets/84355e98-3d73-411b-885d-f90a04b43356" />
 
 ---
