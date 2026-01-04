@@ -77,7 +77,7 @@ The system leverages:
 3. streamlit run app.py 
 
 ## Streamlit App 
-🚀 **Live Demo:** (https://gfgbq-team-outlier-6tpbykremtogxp5xibqbar.streamlit.app/)
+🚀 **Live Demo:** https://gfgbq-team-outlier-6tpbykremtogxp5xibqbar.streamlit.app/
 
 **Predict daily emergency admissions**
 
