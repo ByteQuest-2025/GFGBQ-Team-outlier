@@ -74,9 +74,10 @@ The system leverages:
 ##  ▶️ How to Run the Application
 1. git clone [<outlier>](https://github.com/ByteQuest-2025/GFGBQ-Team-outlier)
 2. pip install -r requirements.txt
-3. streamlit run app.py
+3. streamlit run app.py 
 
-🚀 **Live Demo:** http://localhost:8501/#ai-driven-predictive-healthcare-analytics 
+## Streamlit App 
+🚀 **Live Demo:** http://localhost:8501/#ai-driven-predictive-healthcare-analytics
 
 **Predict daily emergency admissions**
 <img width="500" height="500" alt="Screenshot 2026-01-04 102924" src="https://github.com/user-attachments/assets/21ea9d23-491d-46ef-98ee-883862ac4699" />
