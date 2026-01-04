@@ -66,32 +66,30 @@ The system leverages:
 
 ## 📂 Project Structure
 
-```
-GFGBQ-Team-outlier/
-│── app.py                    # Streamlit application
-│── emergency_load_model.pkl  # Trained ML model
-│── dataset.csv               # Historical hospital dataset
-│── task.ipynb                # Model training & experimentation
-│── requirements.txt          # Dependencies
-│── README.md                 # Project documentation
-```
+GFGBQ-TEAM-OUTLIER/
+│── .gitattributes
+│── app.py                     # Streamlit application
+│── dataset.csv                # Historical hospital dataset
+│── emergency_model.pkl        # Emergency admission prediction model
+│── icu_model.pkl              # ICU demand prediction model
+│── staff_model.pkl            # Staff workload prediction model
+│── staff_label_encoder.pkl    # Label encoder for staff workload
+│── task.ipynb                 # Model training & experimentation
+│── requirements.txt           # Project dependencies
+│── README.md                  # Main project overview
+│── MODEL_README.md            # Detailed model & logic documentation
 
 ---
 
-## 🌐 Live Streamlit Application
-
+##  ▶️ How to Run the Application
+1. git clone [<outlier>](https://github.com/ByteQuest-2025/GFGBQ-Team-outlier)
+2. pip install -r requirements.txt
+3. streamlit run app.py
 🚀 **Live Demo:** http://localhost:8501/#ai-driven-predictive-healthcare-analytics 
-
-The application is deployed on **Streamlit Community Cloud** and provides an interactive interface to:
 
 * Predict daily emergency admissions
 * Estimate ICU bed demand
 * Analyze staff workload levels
-
-Judges and users can test predictions using manual input or CSV upload without any local setup.
-
-
-
 ---
 
 ## 👥 Hackathon Team Members
