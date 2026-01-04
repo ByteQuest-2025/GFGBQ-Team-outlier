@@ -95,10 +95,10 @@ The system leverages:
 
 ## 👥 Hackathon Team Members
 
-* **Kanika AB**
-* **Dhinesh S**
-* **Sreevibu S**
 * **Selvaganapathy K**
+* **Dhinesh S**
+* **Kanika AB**
+* **Sreevibu S**
 
 ---
 
