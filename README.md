@@ -68,8 +68,11 @@ The system leverages:
 
 GFGBQ-TEAM-OUTLIER/
 │── .gitattributes
+
 │── app.py                     # Streamlit application
+
 │── dataset.csv                # Historical hospital dataset
+
 │── emergency_model.pkl        # Emergency admission prediction model
 │── icu_model.pkl              # ICU demand prediction model
 │── staff_model.pkl            # Staff workload prediction model
