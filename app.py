@@ -143,15 +143,20 @@ div[data-testid="stTabs"] button[aria-selected="true"] {
 """, unsafe_allow_html=True)
 
 @st.cache_resource
+@st.cache_resource
 def load_models():
-    icu_model = pickle.load(open("icu_model.pkl","rb"))
-    emergency_model = pickle.load(open("emergency_model.pkl","rb"))
-    staff_model = pickle.load(open("staff_model.pkl","rb"))
     try:
-        staff_label = pickle.load(open("staff_label_encoder.pkl","rb"))
-    except:
-        staff_label = None
-    return icu_model, emergency_model, staff_model, staff_label
+        icu_model = pickle.load(open("icu_model.pkl","rb"))
+        emergency_model = pickle.load(open("emergency_model.pkl","rb"))
+        staff_model = pickle.load(open("staff_model.pkl","rb"))
+        try:
+            staff_label = pickle.load(open("staff_label_encoder.pkl","rb"))
+        except:
+            staff_label = None
+        return icu_model, emergency_model, staff_model, staff_label
+    except Exception as e:
+        st.error(f"❌ Model loading failed: {e}")
+        st.stop()
 
 icu_model, emergency_model, staff_model, staff_label = load_models()
 
