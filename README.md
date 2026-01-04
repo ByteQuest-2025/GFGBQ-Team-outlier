@@ -80,7 +80,7 @@ GFGBQ-Team-outlier/
 
 ## 🌐 Live Streamlit Application
 
-🚀 **Live Demo:** [https://gfgbq-team-outlier-tunyb8brrpvktqenrfa9vj.streamlit.app/](https://gfgbq-team-outlier-tunyb8brrpvktqenrfa9vj.streamlit.app/)
+🚀 **Live Demo:** http://localhost:8501/#ai-driven-predictive-healthcare-analytics 
 
 The application is deployed on **Streamlit Community Cloud** and provides an interactive interface to:
 
