@@ -66,21 +66,8 @@ The system leverages:
 
 ## 📂 Project Structure
 
-GFGBQ-TEAM-OUTLIER/
-│── .gitattributes
+<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/d45a2c84-900c-42e7-aff6-649bbc4fe5d9" />
 
-│── app.py                     # Streamlit application
-
-│── dataset.csv                # Historical hospital dataset
-
-│── emergency_model.pkl        # Emergency admission prediction model
-│── icu_model.pkl              # ICU demand prediction model
-│── staff_model.pkl            # Staff workload prediction model
-│── staff_label_encoder.pkl    # Label encoder for staff workload
-│── task.ipynb                 # Model training & experimentation
-│── requirements.txt           # Project dependencies
-│── README.md                  # Main project overview
-│── MODEL_README.md            # Detailed model & logic documentation
 
 ---
 
