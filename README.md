@@ -77,7 +77,8 @@ The system leverages:
 3. streamlit run app.py 
 
 ## Streamlit App 
-🚀 **Live Demo:** [http://localhost:8501/#ai-driven-predictive-healthcare-analytics](https://gfgbq-team-outlier-6tpbykremtogxp5xibqbar.streamlit.app/)
+🚀 **Live Demo:** (https://gfgbq-team-outlier-6tpbykremtogxp5xibqbar.streamlit.app/)
+
 **Predict daily emergency admissions**
 
 <img width="500" height="500" alt="Screenshot 2026-01-04 102924" src="https://github.com/user-attachments/assets/21ea9d23-491d-46ef-98ee-883862ac4699" />
